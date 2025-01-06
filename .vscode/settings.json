@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "sql_project",
+            "database": "sql_project",
+            "username": "postgres",
+            "connectionTimeout": 782145
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "stakeholder_project1",
+            "database": "stakeholder_project1",
+            "username": "postgres"
+        }
+    ]
+}
