@@ -57,3 +57,14 @@ INSERT INTO customer_details (customer_id, subscription_status)
 VALUES
     (1, CASE WHEN 'Yes' = 'Yes' THEN TRUE ELSE FALSE END), 
     (2, CASE WHEN 'No' = 'Yes' THEN TRUE ELSE FALSE END);  
+
+SELECT conname AS constraint_name, conrelid::regclass AS table_name
+FROM pg_constraint
+WHERE confrelid = 'customer_details'::regclass AND confkey @> ARRAY[
+    (SELECT attnum FROM pg_attribute WHERE attrelid = 'customer_details'::regclass AND attname = 'customer_id')
+];
+
+ALTER TABLE sales_data
+ADD CONSTRAINT sales_data_user_id_fkey
+FOREIGN KEY (user_id)
+REFERENCES customer_details(customer_id);
