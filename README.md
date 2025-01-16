@@ -20,7 +20,8 @@
 
 <a name="headers"/>
 
-# [LIVE DASHBOARD]()
+##  [TABLEAU DASHBOARD](https://public.tableau.com/app/profile/jliudoyle/vizzes)
+
 # ByteX Performance Analysis for Year 2023-2024
 ## Project overview
 Founded in 2019, ByteX is a global e-commerce store specialising in lifestyle branding and offering a diverse range of apparel. With a portfolio of niche brands catering to specific market needs, the company has a niche winter brand in their American market which they want to analysis to decided where to go in the future. I’m patterning with the Head of Operations to analyse the brand’s performance for the year 2023-2024 to extract insights and deliver recommendations to improve performance across sales, product, and marketing teams.
