@@ -1,6 +1,23 @@
 # Table of Contents  
-[Headers](#Project-overview)  
-[Questions for Stakeholder](#questions-for-stakeholders-prior-to-analysis)
+- [Project Overview](#project-overview)  
+- [Excecutive Summary](#executive-summary)  
+- [Insights Deep-Dive](#insights-deep-dive)  
+  - [Customer Demographics](#customer-demographics)  
+  - [Purchasing Behaviour](#purchasing-behaviour)  
+  - [Sales Trends](#sales-trends)  
+  - [Key Product Performance](#key-product-performance)  
+  - [Store Interaction Trends](#store-interaction-trends)  
+  - [Subscription Trend](#subscription-trend)  
+  - [Promotion Campaign Performance](#promotion-campaign-performance)  
+- [Recommendations](#recommendations)  
+  - [Targeted Marketing for Key Demographics](#targeted-marketing-for-key-demographics)  
+  - [Optimizing Shipping and Checkout Behaviour](#optimizing-shipping-and-checkout-behaviour)  
+  - [Maximizing Sales Momentum](#maximizing-sales-momentum)  
+  - [Strategic Product Promotions](#strategic-product-promotions)  
+  - [Increasing Engagement Through Interactions](#increasing-engagement-through-interactions)  
+  - [Retaining and Growing Subscriptions](#retaining-and-growing-subscriptions)  
+- [Questions for Stakeholders Prior to Analysis](#questions-for-stakeholders-prior-to-analysis)  
+
 <a name="headers"/>
 
 # ByteX Performance Analysis for Year 2023-2024
