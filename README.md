@@ -20,7 +20,7 @@
 
 <a name="headers"/>
 
-##  [TABLEAU DASHBOARD](https://public.tableau.com/app/profile/jliudoyle/vizzes)
+##  [TABLEAU DASHBOARD](https://public.tableau.com/app/profile/jliudoyle/viz/ByteXWinterBrandPerformanceAnalysisInsightsandRecommendationsfor2023-2024/CustomerCountbyState)
 
 # ByteX Performance Analysis for Year 2023-2024
 ## Project overview
